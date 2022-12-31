@@ -59,5 +59,5 @@ public class Main {
         System.out.println("XP:" + devJoao.calcularTotalXp());
 
     }
-
+//Atualização
 }
